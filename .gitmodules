@@ -16,4 +16,7 @@
 [submodule "vim/dotvim"]
 	path = vim/dotvim
 	url = https://github.com/dotphiles/dotvim.git
+[submodule "bash"]
+	path = bash
+	url = https://github.com/josephwecker/bashrc_dispatch.git
 
